@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "material-ui-icons@^1.0.0-alpha.3",
+        "scope": null,
+        "escapedName": "material-ui-icons",
+        "name": "material-ui-icons",
+        "rawSpec": "^1.0.0-alpha.3",
+        "spec": ">=1.0.0-alpha.3 <2.0.0",
+        "type": "range"
+      },
+      "/var/www/vhosts/fi1osofski.modxclub.local/assets/components/modxsite/templates/v37"
+    ]
+  ],
+  "_from": "material-ui-icons@>=1.0.0-alpha.3 <2.0.0",
+  "_id": "material-ui-icons@1.0.0-alpha.3",
+  "_inCache": true,
+  "_location": "/material-ui-icons",
+  "_nodeVersion": "7.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/material-ui-icons-1.0.0-alpha.3.tgz_1493146429030_0.24112713802605867"
+  },
+  "_npmUser": {
+    "name": "oliviertassinari",
+    "email": "olivier.tassinari@gmail.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {
+    "change-emitter": "0.1.6",
+    "fbjs": "0.8.12",
+    "hoist-non-react-statics": "1.2.0",
+    "symbol-observable": "1.0.4"
+  },
+  "_requested": {
+    "raw": "material-ui-icons@^1.0.0-alpha.3",
+    "scope": null,
+    "escapedName": "material-ui-icons",
+    "name": "material-ui-icons",
+    "rawSpec": "^1.0.0-alpha.3",
+    "spec": ">=1.0.0-alpha.3 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/material-ui-icons/-/material-ui-icons-1.0.0-alpha.3.tgz",
+  "_shasum": "c970c643d51ae57718381e83149fcf1ee77ec6f0",
+  "_shrinkwrap": null,
+  "_spec": "material-ui-icons@^1.0.0-alpha.3",
+  "_where": "/var/www/vhosts/fi1osofski.modxclub.local/assets/components/modxsite/templates/v37",
+  "author": {
+    "name": "Material-UI Team"
+  },
+  "bugs": {
+    "url": "https://github.com/callemall/material-ui/src/issues"
+  },
+  "dependencies": {
+    "recompose": "^0.22.0"
+  },
+  "description": "Material Design Svg Icons converted to Material-UI React components.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c970c643d51ae57718381e83149fcf1ee77ec6f0",
+    "tarball": "https://registry.npmjs.org/material-ui-icons/-/material-ui-icons-1.0.0-alpha.3.tgz"
+  },
+  "homepage": "http://material-ui.com/",
+  "keywords": [
+    "Material",
+    "Design",
+    "Material-UI",
+    "Icons",
+    "React",
+    "react-component"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "cea-admin",
+      "email": "engineering@call-em-all.com"
+    },
+    {
+      "name": "hai-cea",
+      "email": "hai@call-em-all.com"
+    },
+    {
+      "name": "mbrookes",
+      "email": "npm@nospam.33m.co"
+    },
+    {
+      "name": "oliviertassinari",
+      "email": "olivier.tassinari@gmail.com"
+    }
+  ],
+  "name": "material-ui-icons",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "material-ui": "^1.0.0-alpha"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callemall/material-ui.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha.3"
+}
